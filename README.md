@@ -9,10 +9,10 @@
 ---
 
 ## 📌 Contact Information
-- 📧 Email: [ahmed.ebrahem.ebdelazem@gmail.com](mailto:ahmed.ebrahem.ebdelazem@gmail.com)
-- 📞 Phone: [+20 127 735 1598](tel:+201277351598)
-- 💼 LinkedIn: [My LinkedIn Profile](https://linkedin.com/in/your-profile)
-- 🌐 GitHub: [My GitHub Profile]([https://github.com/ahmedebrahem0](https://github.com/ahmedebrahem0))
+- 📧 Email: [shereenahmed387@gmail.com](mailto:shereenahmed387@gmail.com)
+- 📞 Phone: [+20 101 205 1149](tel:+201012051149)
+- 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/shereen-ahmed1/)
+- 🌐 GitHub: [My GitHub Profile]([https://github.com/shereen554](https://github.com/shereen554))
 ---
 
 ## 💻 Work Experience
@@ -89,9 +89,9 @@
 ---
 
 ## 🤝 Let's Connect!
-- 📧 Email: [ahmed.ebrahem.ebdelazem@gmail.com](mailto:ahmed.ebrahem.ebdelazem@gmail.com)
-- 💼 LinkedIn: [My LinkedIn Profile](https://linkedin.com/in/your-profile)
-- 🌐 GitHub: [My GitHub Profile](https://github.com/your-username)
+- 📧 Email: [shereenahmed387@gmail.com](mailto:shereenahmed387@gmail.com)
+- 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/shereen-ahmed1/)
+- 🌐 GitHub: [My GitHub Profile](https://github.com/shereen554)
 
 ---
 
