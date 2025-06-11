@@ -12,7 +12,7 @@
 - 📧 Email: [shereenahmed387@gmail.com](mailto:shereenahmed387@gmail.com)
 - 📞 Phone: [+20 101 205 1149](tel:+201012051149)
 - 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/shereen-ahmed1/)
-- 🌐 GitHub: [My GitHub Profile]([https://github.com/shereen554](https://github.com/shereen554))
+- 🌐 GitHub: [My GitHub Profile](https://github.com/shereen554)
 ---
 
 ## 💻 Work Experience
