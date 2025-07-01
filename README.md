@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shereen Ahmed</h1>
+<h3 align="center">Full Stack .NET Developer | Angular | Clean Architecture Enthusiast</h3>
 
-<!--
-**shereen554/shereen554** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🎯 Passionate about building powerful, scalable web applications using the Microsoft tech stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Worked on real-life projects like:
+- 🛒 Car Rental & Sales System (Rent, Sell, Display Models)
+- 📦 Shipping & Delivery Management System
+- 📝 Task Manager and Personal Blog Platform
+
+🚀 I build modern frontends with **Angular** and robust backends with **ASP.NET Core Web API**  
+🔁 I love using **Clean Architecture**, **EF Core**, and **Design Patterns** for maintainable code  
+
+
+---
+
+📫 Reach me at:  
+📧 shereenahmed387@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/shereen-ahmed-911a20230/)  
+🐙 [GitHub](https://github.com/shereen554)
+
+---
+
+### 🛠️ Tech Stack
+
+- 💻 Back-End: ASP.NET Core, EF Core, Web API, Clean Architecture  
+- 🎨 Front-End: Angular, HTML5, CSS3, Bootstrap  
+- 🛢️ Database: SQL Server  
+- ⚙️ Tools: Git, GitHub, Postman
+- 🌐 Other: JWT Auth, Dependency Injection, Identity
+
+---
+
+### 📊 GitHub Stats
+
+![Shereen's GitHub stats](https://github-readme-stats.vercel.app/api?username=shereen554&show_icons=true&theme=radical)
+
+---
+
+🧠 "Code smart. Build clean. Keep learning." 💡
